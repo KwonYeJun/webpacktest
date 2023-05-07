@@ -7,7 +7,16 @@
 //   },
 // };
 
-module.exports = {
+// module.exports = {
+//   entry: "./index.js",
+//   output: {
+//     filename: "./index.bundle.js",
+//   },
+// };
+
+// ? ESM 방식으로도 해본다.
+
+export default {
   entry: "./index.js",
   output: {
     filename: "./index.bundle.js",
