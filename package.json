@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/KwonYeJun/webpacktest#readme",
   "devDependencies": {
-    "webpack": "^5.82.0"
+    "webpack": "^5.82.0",
+    "webpack-cli": "^5.1.0"
   }
 }
